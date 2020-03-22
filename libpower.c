@@ -5,7 +5,7 @@ float power(float a, float b){
 	int j = (int)b;
 	float resp = a;
 
-	printf("Powerlib usada!\n\r");
+	//printf("Powerlib usada!\n\r");
 	for(i=0;i<(b-1);i++){
 		resp = resp*a;
 	}
